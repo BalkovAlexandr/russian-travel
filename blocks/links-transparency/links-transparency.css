@@ -1,4 +1,4 @@
-.links__transparency:hover {
+.links-transparency:hover {
     opacity: .8;
     transition: .5s linear;
 }
